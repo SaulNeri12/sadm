@@ -14,7 +14,7 @@
                 "¿Cómo se va a realizar el proyecto?",
                 "¿Quiénes son las personas que conformarán el equipo Scrum?",
                 "¿Cuánto tiempo se tiene para lograr el proyecto?",
-               ]
+               ],
             },
             {
               "text": "Scrum funciona a partir de una lista de tareas que se divide entre todo el equipo desarrollador, esta lista es llamada <b>product backlog</b> y  contiende la lista de caracteristicas priorizadas y descripciones sobre todo lo que se desea para el producto a desarrollar. Esta lista tiende a cambiar dependiendo de las nuevas propuestas del cliente y nuevos problemas en el desarrollo.",
