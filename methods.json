@@ -19,7 +19,11 @@
             },
             {
               "text": "Scrum funciona a partir de una \"lista de tareas\" que se divide entre todo el equipo, esta lista es llamada <b>product backlog</b> y contiene todas las caracteristicas y descripciones hechas por nuestro equipo y nuestro cliente. Esta lista tiende a cambiar, dependiendo de las nuevas propuestas del cliente y nuevos problemas en el desarrollo del producto.",
-               "questions": []
+              "resource": {
+                "title": "Product Backlog",
+                "link": "https://www.youtube.com/watch?v=oIIoOJx-U3E"
+              },
+              "questions": []
             }
           ]
         }
