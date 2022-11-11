@@ -27,7 +27,7 @@
       {
         "name": "Sprint (Ejecucion)",
         "description": {
-          "paragrahs": [
+          "paragraphs": [
             {
               "text": "Durante el Sprint se crea un incremento del producto, que sea utilizable y potencialmente entregable. Tambien durante esta etapa, iremos modificando nuestro <b>product backlog</b> a medida que descartemos o agreguemos nuevos errores o problemas.",
               "questions": []
