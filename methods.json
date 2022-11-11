@@ -5,11 +5,11 @@
     "picture": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "phases": [
       {
-        "name": "Inicio",
+        "name": "Planning Sprint (Planeacion)",
         "description": {
           "paragraphs": [
             {
-              "text": "Esta etapa es donde se estudia y se analiza los requerimientos, se definen los roles que formarán el equipo Scrum y se organizará la forma de cómo ejecutar el proyecto.",
+              "text": "En esta etapa analizamos los requerimientos dictados por nuestro cliente y se definen los roles que se asignaran entre todos los integrantes de nuestro equipos, por ultimo se organizará la forma en la que se empezara ejecutar el proyecto.",
               "questions": [
                 "¿Cuál será el resultado final del proyecto?",
                 "¿Cómo se va a realizar el proyecto?",
@@ -18,8 +18,19 @@
                ]
             },
             {
-              "text": "Scrum funciona a partir de una lista de tareas que se divide entre todo el equipo desarrollador, esta lista es llamada <b>product backlog</b> y  contiende la lista de caracteristicas priorizadas y descripciones sobre todo lo que se desea para el producto a desarrollar. Esta lista tiende a cambiar dependiendo de las nuevas propuestas del cliente y nuevos problemas en el desarrollo.",
+              "text": "Scrum funciona a partir de una \"lista de tareas\" que se divide entre todo el equipo, esta lista es llamada <b>product backlog</b> y contiene todas las caracteristicas y descripciones hechas por nuestro equipo y nuestro cliente. Esta lista tiende a cambiar, dependiendo de las nuevas propuestas del cliente y nuevos problemas en el desarrollo del producto.",
                "questions": []
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sprint (Ejecucion)",
+        "description": {
+          "paragrahs": [
+            {
+              "text": "Durante el Sprint se crea un incremento del producto, que sea utilizable y potencialmente entregable. Tambien durante esta etapa, iremos modificando nuestro <b>product backlog</b> a medida que descartemos o agreguemos nuevos errores o problemas.",
+              "questions": []
             }
           ]
         }
