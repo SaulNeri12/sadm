@@ -1,12 +1,30 @@
 {
-  "major": {
-    "description": {
-      "paragraphs": [
-        {
-          "title": "¿Que es la ingenieria en Software?",
-          "text": "La ingenieria en software es una rama de las ciencias computacionales, que se basa en crear software de calidad aplicando tecnicas de desarrollo denominadas como <a href=\"#software-methods\">metodologias de desarrollo de software</a>"
-        }
-      ]
-    }
+  "description": {
+    "paragraphs": [
+      {
+        "title": "¿Que es la ingenieria en Software?",
+        "text": "La ingenieria en software es una rama de las ciencias computacionales, que se basa en la creacion de software de calidad aplicando procesos y tecnicas de desarrollo denominadas como <a href=\"#software-methods\">metodologias de desarrollo de software</a>"
+      },
+      {
+        "title": "¿Que hace un ingeniero en Software?",
+        "text": "El ingeniero en Software es un profesionista comprometido, cuya labor es planificar, diseñar, probar, administrar y mantener proyectos de software, aplicando modelos, <a href=\"#technologies\">lenguajes de programacion</a>, procesos y tecnicas anteriormente dichas."
+      },
+      {
+        "title": "¿Que es un lenguaje de programacion?",
+        "text": "Es seguro que ya hayas escuchado algo sobre los <b>lenguajes de programacion</b>, podemos definirlos como idiomas o \"lenguajes que la computadora entiende\". Pero, ¿para que sirven?, estos nos permiten darle a una computadora una serie de instrucciones sobre algo que queremos que haga, desde programas que nos ayuden a calcular nuestra edad hasta aplicaciones sumamente complejas."
+      },
+      {
+        "title": "Ejemplos de lenguajes de programacion",
+        "text": "A continuacion mostraremos algunos lenguajes de programacion mas comunes o mas usados y sus principales usos.",
+        "list": [
+          {
+            "title": "Java",
+            "text": "Ya se lo que estas pensando y si, el lenguaje con el que se creo el famoso <b>Minecraft</b>. Este lenguaje es el mas usado en el planeta, ya que alrededor de 60 mil millones de maquinas ejecutan la maquina virtual de Java actualmente. Este es un lenguaje totalmente orientado a objetos <a href=\"\">(POO)</a> y con el se puede hacer desde aplicaciones(de escritorio, web, android) hasta videojuegos.",
+            "picture": "https://blog.hyperiondev.com/wp-content/uploads/2018/05/java-code-collapse.gif"
+          }
+        ]
+      }
+    ]
   }
 }
+
