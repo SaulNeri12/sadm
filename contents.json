@@ -1,10 +1,18 @@
 [
   {
-    "title": "Que es ISW",
+    "title": "¿Que es la ingenieria en Software?",
     "link": "#definition"
   },
   {
-    "title": "Que hace un ingeniero en Software?",
-    "link": "#work-fields"
+    "title": "¿Que hace un ingeniero en Software?",
+    "link": "#software-engineer"
+  },
+  {
+    "title": "¿Que es un lenguaje de programacion?",
+    "link": "#prog-langs"
+  },
+  {
+    "title": "Ejemplos de lenguajes de programacion",
+    "link": "#prog-lang-examples"
   }
 ]
