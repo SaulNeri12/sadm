@@ -3,43 +3,58 @@
     "paragraphs": [
       {
         "title": {
-          "text":"¿Que es la ingenieria en Software?",
+          "text": "¿Qué es la ingeniería en Software?",
           "link": "definition"
         },
-        "text": "La ingenieria en software es una rama de las ciencias computacionales, que se basa en la creacion de software de calidad aplicando procesos y tecnicas de desarrollo denominadas como <a href=\"#software-methods\">metodologias de desarrollo de software</a>",
+        "text": "La ingeniería en software es una rama de las ciencias computacionales, que se basa en la creación de software de calidad aplicando procesos y técnicas de desarrollo denominadas como <a href=\"#software-methods\">metodologías de desarrollo de software</a>.",
         "picture": "https://images.unsplash.com/photo-1545665277-5937489579f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "list": []
       },
       {
         "title": {
-          "text": "¿Que hace un ingeniero en Software?",
+          "text": "¿Qué hace un ingeniero en Software?",
           "link": "software-engineer"
         },
-        "text": "El ingeniero en Software es un profesionista comprometido, cuya labor es planificar, diseñar, probar, administrar y mantener proyectos de software, aplicando modelos, <a href=\"#technologies\">lenguajes de programacion</a>, procesos y tecnicas anteriormente dichas.",
+        "text": "El ingeniero en Software es un profesionista comprometido, cuya labor es planificar, diseñar, probar, administrar y mantener proyectos de software, aplicando modelos, <a href=\"#prog-langs\">lenguajes de programación</a>, procesos y técnicas anteriormente dichas.",
         "picture": "https://images.unsplash.com/photo-1580894908361-967195033215?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "list": []
       },
       {
         "title": {
-          "text": "¿Que es un lenguaje de programacion?",
+          "text": "¿Qué es un lenguaje de programación?",
           "link": "prog-langs"
         },
-        "text": "Es seguro que ya hayas escuchado algo sobre los <b>lenguajes de programacion</b>, podemos definirlos como idiomas o \"lenguajes que la computadora entiende\". Pero, ¿para que sirven?, estos nos permiten darle a una computadora una serie de instrucciones sobre algo que queremos que haga, desde programas que nos ayuden a calcular nuestra edad hasta aplicaciones sumamente complejas.",
+        "text": "Es seguro que ya hayas escuchado algo sobre los <b>lenguajes de programación</b>, podemos definirlos como idiomas o \"lenguajes que la computadora entiende\". Pero, <b>¿para qué nos sirven?</b>, estos nos permiten darle a una computadora una serie de instrucciones sobre algo que queremos que haga, desde programas simples que nos ayuden a automatizar tareas hasta aplicaciones sumamente complejas.",
         "picture": "https://images.unsplash.com/photo-1619410283995-43d9134e7656?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "link": []
+        "list": []
       },
       {
         "title": {
-          "text": "Ejemplos de lenguajes de programacion",
+          "text": "Ejemplos de lenguajes de programación",
           "link": "prog-lang-examples"
         },
-        "text": "A continuacion mostraremos algunos lenguajes de programacion mas comunes o mas usados y sus principales usos.",
+        "text": "A continuación mostraremos algunos lenguajes de programación más usados hoy en día y sus principales usos.",
         "picture": null,
         "list": [
           {
             "name": "Java",
-            "description": "Ya se lo que estas pensando, el lenguaje con el que se creo el famoso videojuego <b>Minecraft</b>. Este lenguaje es el mas usado en el planeta, ya que alrededor de 60 mil millones de maquinas ejecutan la maquina virtual de Java actualmente. Este es un lenguaje totalmente orientado a objetos <a href=\"\">(POO)</a> y con el se puede hacer desde aplicaciones(de escritorio, web, android) hasta videojuegos.",
+            "description": "Ya sé lo que estás pensando, el lenguaje con el que se creó el famoso videojuego <b>Minecraft</b>. Este lenguaje es el más usado en el planeta, ya que alrededor de 60 mil millones de máquinas ejecutan la máquina virtual de Java actualmente. Este es un lenguaje totalmente orientado a objetos <a href=\"\">(POO)</a> y con él se puede hacer aplicaciones de escritorio, aplicaciones móviles, servidores web, inteligencia artificial, videojuegos y muchas cosas más.",
             "picture": "https://i.stack.imgur.com/RG51m.png"
+          },
+          {
+            "name": "Python",
+            "description": "Este es un lenguaje de programación <b>de alto nivel</b> muy popular debido a su simplicidad y la capacidad de crear lo que sea con éste gracias a su gran versatilidad, además cuenta con una sintaxis amigable y legible, permitiendo así que podamos entender un código con una mayor facilidad. Este lenguaje tiene muchos usos como programar <b>microcontroladores</b>, crear aplicaciones web, aplicaciones de escritorio basadas en navegador, aplicaciones móviles, análisis de datos, entre otros muchos otros más como la <b>inteligencia artificial</b>, el cual es un campo donde <b>Python</b> está arrasando.",
+            "picture": "https://cdn.wallpapersafari.com/86/47/beOFkU.jpg"
+          },
+          {
+            "name": "JavaScript",
+            "description": "Existe mucha confusión entre este lenguaje y Java ya que suenan muy parecido, pero la verdad es que estos no comparten nada en común, a excepción de la sintaxis, que es muy parecida a la de <b>Java</b> además de que los dos son lenguajes de <b>programación orientada a objetos</b>. <b>JavaScript</b> es un lenguaje de alto nivel <b>orientado a objetos</b> y es el lenguaje más utilizado en el campo del desarrollo web, este lenguaje esta enfocado para actuar en conjunto con HTML y CSS. Este lenguaje es el que se encarga de darle funcionalidad a la página o aplicación web. Este lenguaje se ejecuta solo se ejecuta en el navegador, es decir, en el lado el cliente, pero desde hace años este paso a poder ejecutarse fuera de los navegadores como cualquier otro lenguaje de programación como lo es <b>Python</b>, <b>Java</b> y <b>C</b>, siendo así usado hasta en la programación de <b>microcontroladores</b>.",
+            "picture": "https://th.bing.com/th/id/R.96fd3a4dbf47379c3454f429954712e2?rik=07QxpxCX4c7vKA&pid=ImgRaw&r=0&sres=1&sresct=1"
+          },
+          {
+            "name": "C",
+            "description": "Este lenguaje de programación es el más viejo de los lenguajes anteriormente mencionados y padre de 2 de estos lenguajes, <b>Python</b> y <b>Java</b>. A pesar de ser creado desde el año 1970 sigue siendo muy utilizado hoy en día en el área de desarrollo de sistemas operativos y <b>sistemas embebidos</b>. Este lenguaje es el <b>más recomendado para empezar</b> en el mundo de la programación ya que sienta las bases de esta como la administración de memoria, estructuras de datos y también debido a que es un lenguaje de <b>mediano nivel</b>, este puede tener contacto con el hardware permitiéndonos hacer cosas que con otros lenguajes no podríamos.",
+            "picture": "https://qph.fs.quoracdn.net/main-qimg-caddd7b6839947260fce728630e7e108"
           }
         ]
       }
