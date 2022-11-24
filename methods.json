@@ -40,5 +40,29 @@
         }
       }
     ]
+  },
+  {
+    "name": "Cascada",
+    "description": "El modelo de cascada es un sistema lineal para la gestión de proyectos que puede ser útil para que el equipo pueda cumplir los objetivos compartidos; una tarea o hito a la vez. Este enfoque para la gestión de proyectos surgió a partir de los sectores de fabricación y construcción, en los que cada hito debe estar finalizado para poder avanzar con el proceso de producción, ya que <u>\"no puedes construir las paredes de una casa sin los cimientos\"</u>. A pesar su origen, la gestión de proyectos cascada se ha adaptado a las necesidades de muchos otros sectores diferentes, incluso al del desarrollo de software.",
+    "picture": "https://d33wubrfki0l68.cloudfront.net/6a7bbf7f19b0b820ea446eda6a2a21df679af2eb/b0c8a/wp-content/uploads/2016/02/modelo_de_desarrollo_en_cascada.jpg",
+    "phases": [
+      {
+        "name": "Requerimientos",
+        "description": {
+          "paragraphs": [
+            {
+              "text": "Es el proceso de planificación inicial en el que los miembros del equipo reúnen toda la información posible para garantizar el éxito del proyecto. Como las tareas del método de cascada dependen de los pasos anteriores, hay que prever todo en detalle antes de empezar. Este proceso de planificación es una etapa crucial de la metodología de cascada y por ese motivo, la mayor parte del tiempo del proyecto se dedica a la planificación. Al finalizar la fase de requerimientos, deberías tener un esquema muy claro del proyecto de principio a fin que incluya lo siguiente:",
+              "questions": [
+                "Cada etapa del proceso",
+                "Quién trabajará en cada etapa",
+                "Las dependencias clave",
+                "Los recursos necesarios",
+                "Un cronograma en el que se detalle cuánto tiempo durará cada etapa"
+              ]
+            }
+          ]
+        }
+      }
+    ]
   }
 ]
