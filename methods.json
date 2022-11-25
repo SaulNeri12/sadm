@@ -2,7 +2,7 @@
   {
     "name": "SCRUM",
     "description": "Scrum es un proceso de gestión que reduce la complejidad en el desarrollo de productos para satisfacer las necesidades de los clientes.",
-    "picture": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "picture": "https://th.bing.com/th/id/R.8985972bc7df999cdcc9acdcfa553447?rik=i7Vk9xh8oxeaBA&pid=ImgRaw&r=0",
     "phases": [
       {
         "name": "Planning Sprint (Planeacion)",
@@ -10,6 +10,10 @@
           "paragraphs": [
             {
               "text": "En esta etapa analizamos los requerimientos dictados por nuestro cliente y se definen los roles que se asignaran entre todos los integrantes de nuestro equipos, por ultimo se organizará la forma en la que se empezara ejecutar el proyecto.",
+              "resource": {
+                "type": "picture",
+                "link": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+              },
               "questions": [
                 "¿Cuál será el resultado final del proyecto?",
                 "¿Cómo se va a realizar el proyecto?",
