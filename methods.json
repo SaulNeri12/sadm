@@ -20,7 +20,7 @@
             {
               "text": "Scrum funciona a partir de una \"lista de tareas\" que se divide entre todo el equipo, esta lista es llamada <b>product backlog</b> y contiene todas las caracteristicas y descripciones hechas por nuestro equipo y nuestro cliente. Esta lista tiende a cambiar, dependiendo de las nuevas propuestas del cliente y nuevos problemas en el desarrollo del producto.",
               "resource": {
-                "title": "Product Backlog",
+                "type": "video",
                 "link": "https://www.youtube.com/embed/oIIoOJx-U3E"
               },
               "questions": []
@@ -34,6 +34,40 @@
           "paragraphs": [
             {
               "text": "Durante el Sprint se crea un incremento del producto, que sea utilizable y potencialmente entregable. Tambien durante esta etapa, iremos modificando nuestro <b>product backlog</b> a medida que descartemos o agreguemos nuevos errores o problemas.",
+              "questions": []
+            }
+          ]
+        }
+      },
+      {
+        "name": "Daily Meeting (Reunion Diaria)",
+        "description": {
+          "paragraphs": [
+            {
+              "text": "El propósito de esta fase es el de transmitir los avances del proyecto para abrirse a la colaboración y aumentar la productividad del equipo, además de ayudarse unos a otros. A cada miembro se le hace una serie de preguntas con el objetivo de comprender la situación del individuo ya que este es una parte fundamental del equipo y se necesita solucionar esas limitantes de este:",
+              "questions": [
+                "¿De qué manera ha contribuido al proyecto desde la última reunión?",
+                "¿Qué hará a partir de ese momento para ayudar al equipo a cumplir su objetivo?",
+                "¿Qué limitantes o problemas tiene que le impida realizar sus tareas pendientes en la contribución del proyecto?
+              ]
+            },
+            {
+              "text": "Esta fase aumenta mucho la productividad del equipo, busca siempre la solución a problemas empezando desde lo individual hasta lo colectivo ya que sin miembros no hay equipo. Pero un <u>problema que esta vigente</u> es el nulo interés del miembro por realizar sus tareas o actividades que se le indican, haciendo así que esta fase requiera de una buena comunicación en el equipo. ",
+              "questions": []
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sprint Review (Reunión Informal)",
+        "description": {
+          "paragraphs" [
+            {
+              "text": "Esta es una reunión en la cual se muestran los avances del proyecto con el propósito de obtener feedback tanto del cliente como del equipo desarrollador. Después de esta se vuelven a repetir todas estas fases anteriormente mencionadas haciendo que se haga una iteración al ciclo de SCRUM (las iteraciones también se conocen como “sprint”).",
+              "resource": {
+                "type": "picture",
+                "link": "https://th.bing.com/th/id/OIP.I1vpVSSqgmnz-ZIy3EgmwwHaEK?pid=ImgDet&rs=1"
+              },
               "questions": []
             }
           ]
