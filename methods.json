@@ -48,7 +48,7 @@
               "questions": [
                 "¿De qué manera ha contribuido al proyecto desde la última reunión?",
                 "¿Qué hará a partir de ese momento para ayudar al equipo a cumplir su objetivo?",
-                "¿Qué limitantes o problemas tiene que le impida realizar sus tareas pendientes en la contribución del proyecto?
+                "¿Qué limitantes o problemas tiene que le impida realizar sus tareas pendientes en la contribución del proyecto?"
               ]
             },
             {
@@ -61,7 +61,7 @@
       {
         "name": "Sprint Review (Reunión Informal)",
         "description": {
-          "paragraphs" [
+          "paragraphs": [
             {
               "text": "Esta es una reunión en la cual se muestran los avances del proyecto con el propósito de obtener feedback tanto del cliente como del equipo desarrollador. Después de esta se vuelven a repetir todas estas fases anteriormente mencionadas haciendo que se haga una iteración al ciclo de SCRUM (las iteraciones también se conocen como “sprint”).",
               "resource": {
