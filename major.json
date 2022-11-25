@@ -53,7 +53,7 @@
           },
           {
             "name": "C",
-            "description": "Este lenguaje de programación es el más viejo de los lenguajes anteriormente mencionados y padre de 2 de estos lenguajes, <b>Python</b> y <b>Java</b>. A pesar de ser creado desde el año 1970 sigue siendo muy utilizado hoy en día en el área de desarrollo de sistemas operativos y <b>sistemas embebidos</b>. Este lenguaje es el <b>más recomendado para empezar</b> en el mundo de la programación ya que sienta las bases de esta como la administración de memoria, estructuras de datos y también debido a que es un lenguaje de <b>mediano nivel</b>, este puede tener contacto con el hardware permitiéndonos hacer cosas que con otros lenguajes no podríamos.",
+            "description": "Este lenguaje de programación es el más viejo de los lenguajes anteriormente mencionados y es padre de <b>Python</b> y <b>Java</b> ya que estos fueron escritos utilizando <b>C</b>. A pesar de ser creado en el año 1970, sigue siendo muy utilizado a día de hoy en el área de desarrollo de sistemas operativos y <b>sistemas embebidos</b>. Este lenguaje es el <b>más recomendado para empezar</b> en el mundo de la programación ya que sienta las bases de esta como la administración de memoria, estructuras de datos y también debido a que es un lenguaje de <b>mediano nivel</b>, este puede tener contacto con el hardware permitiéndonos hacer cosas que con otros lenguajes no podríamos.",
             "picture": "https://qph.fs.quoracdn.net/main-qimg-caddd7b6839947260fce728630e7e108"
           }
         ]
