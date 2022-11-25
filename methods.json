@@ -10,10 +10,7 @@
           "paragraphs": [
             {
               "text": "En esta etapa analizamos los requerimientos dictados por nuestro cliente y se definen los roles que se asignaran entre todos los integrantes de nuestro equipos, por ultimo se organizará la forma en la que se empezara ejecutar el proyecto.",
-              "resource": {
-                "type": "picture",
-                "link": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-              },
+              "resource": null,
               "questions": [
                 "¿Cuál será el resultado final del proyecto?",
                 "¿Cómo se va a realizar el proyecto?",
@@ -57,6 +54,10 @@
             },
             {
               "text": "Esta fase aumenta mucho la productividad del equipo, busca siempre la solución a problemas empezando desde lo individual hasta lo colectivo ya que sin miembros no hay equipo. Pero un <u>problema que esta vigente</u> es el nulo interés del miembro por realizar sus tareas o actividades que se le indican, haciendo así que esta fase requiera de una buena comunicación en el equipo. ",
+              "resource": {
+                "type": "picture",
+                "link": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+              },
               "questions": []
             }
           ]
