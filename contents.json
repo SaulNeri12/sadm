@@ -1,18 +1,22 @@
 [
   {
-    "title": "¿Que es la ingenieria en Software?",
+    "title": "¿Qué es la ingeniería en Software?",
     "link": "#definition"
   },
   {
-    "title": "¿Que hace un ingeniero en Software?",
+    "title": "¿Qué hace un ingeniero en Software?",
     "link": "#software-engineer"
   },
   {
-    "title": "¿Que es un lenguaje de programacion?",
+    "title": "¿Qué es un lenguaje de programación?",
     "link": "#prog-langs"
   },
   {
-    "title": "Ejemplos de lenguajes de programacion",
+    "title": "Ejemplos de lenguajes de programación",
     "link": "#prog-lang-examples"
+  },
+  {
+    "title" "Metodologías del desarrollo de Software",
+    "link": "#software-methods"
   }
 ]
