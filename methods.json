@@ -116,7 +116,6 @@
             },
             {
               "text": "Durante la fase de diseño detallado, el equipo define los detalles particulares del software. Si la fase de diseño de alto nivel es el esqueleto, la de diseño detallado se refiere a los órganos del proyecto. Los miembros de los equipos que hacen sus desarrollos aplicando esta metodología deben documentar cada paso para que el resto del equipo pueda consultar qué se ha hecho a medida que el proyecto avanza.",
-              "resource": null,
               "questions": []
             }
           ]
@@ -143,12 +142,10 @@
           "paragraphs": [
             {
               "text": "El equipo del proyecto al equipo de Calidad para que realice las pruebas pertinentes. Los ‘QA testers’ buscan cualquier error que deba repararse antes de la implementación del proyecto.",
-              "resource": null,
               "questions": []
             },
             {
               "text": "Los encargados de las pruebas documentan con claridad todos los problemas que encuentran al realizar el control de calidad. En caso de que otro desarrollador se encuentre con un error similar, podrá consultar la documentación anterior para corregir el error.",
-              "resource": null,
               "questions": []
             }
           ]
@@ -160,7 +157,6 @@
           "paragraphs": [
             {
               "text": "En los proyectos de desarrollo, esta es la etapa en la que se implementa el software para los usuarios finales. En otros casos, es el momento en que se lanza el entregable definitivo a los clientes finales.",
-              "resource": null,
               "questions": []
             }
           ]
