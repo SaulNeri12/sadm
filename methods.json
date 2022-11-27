@@ -101,6 +101,85 @@
             }
           ]
         }
+      },
+      {
+        "name": "Diseño",
+        "description": {
+          "paragraphs": [
+            {
+              "text": "En esta etapa el equipo especifica qué hardware utilizará, además de cualquier otro detalle, como los lenguajes de programación y la interfaz de usuario. La fase de diseño de alto nivel y la de diseño detallado. En la fase de diseño de alto nivel, el equipo elabora un esqueleto de cómo funcionará el software y cómo se accederá a la información.",
+              "resource": {
+                "type": "picture",
+                "link": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80"
+              },
+              "questions": []
+            },
+            {
+              "text": "Durante la fase de diseño detallado, el equipo define los detalles particulares del software. Si la fase de diseño de alto nivel es el esqueleto, la de diseño detallado se refiere a los órganos del proyecto. Los miembros de los equipos que hacen sus desarrollos aplicando esta metodología deben documentar cada paso para que el resto del equipo pueda consultar qué se ha hecho a medida que el proyecto avanza.",
+              "resource": null,
+              "questions": []
+            }
+          ]
+        }
+      },
+      {
+        "name": "Implementación",
+        "description": {
+          "paragraphs": [
+            {
+              "text": "Esta es la fase en que todo entra en acción. Según los documentos de requerimientos del paso uno y del proceso de diseño del sistema del paso dos, el equipo inicia un proceso de desarrollo pleno para elaborar el software que se ha previsto tanto en la fase de requerimientos como en la de diseño del sistema.",
+              "resource": {
+                "type": "picture",
+                "link": "https://images.unsplash.com/photo-1580983561371-7f4b242d8ec0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+              },
+              "questions": []
+            }
+          ]
+        }
+      },
+      {
+        "name": "Pruebas",
+        "description": {
+          "paragraphs": [
+            {
+              "text": "El equipo del proyecto al equipo de Calidad para que realice las pruebas pertinentes. Los ‘QA testers’ buscan cualquier error que deba repararse antes de la implementación del proyecto.",
+              "resource": null,
+              "questions": []
+            },
+            {
+              "text": "Los encargados de las pruebas documentan con claridad todos los problemas que encuentran al realizar el control de calidad. En caso de que otro desarrollador se encuentre con un error similar, podrá consultar la documentación anterior para corregir el error.",
+              "resource": null,
+              "questions": []
+            }
+          ]
+        }
+      },
+      {
+        "name": "Despliegue",
+        "description": {
+          "paragraphs": [
+            {
+              "text": "En los proyectos de desarrollo, esta es la etapa en la que se implementa el software para los usuarios finales. En otros casos, es el momento en que se lanza el entregable definitivo a los clientes finales.",
+              "resource": null,
+              "questions": []
+            }
+          ]
+        }
+      },
+      {
+        "name": "Mantenimiento",
+        "description": {
+          "paragraphs": [
+            {
+              "text": "Una vez que el proyecto se ha lanzado para su implementación, puede haber instancias en las que se descubra algún error nuevo o en las que sea necesario realizar alguna actualización del software. A esto se lo conoce como fase de mantenimiento y es muy común, en el desarrollo de software, que el trabajo de esta etapa sea continuo.",
+              "resource": {
+                "type": "picture",
+                "link": "https://images.unsplash.com/photo-1556636530-6b7482d80e3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+              },
+              "questions": []
+            }
+          ]
+        }
       }
     ]
   }
