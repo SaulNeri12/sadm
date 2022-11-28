@@ -5,7 +5,7 @@
     "picture": "https://th.bing.com/th/id/R.8985972bc7df999cdcc9acdcfa553447?rik=i7Vk9xh8oxeaBA&pid=ImgRaw&r=0",
     "phases": [
       {
-        "name": "Planning Sprint (Planeacion)",
+        "name": "Planning Sprint (Planeación)",
         "description": {
           "paragraphs": [
             {
@@ -30,7 +30,7 @@
         }
       },
       {
-        "name": "Sprint (Ejecucion)",
+        "name": "Sprint (Ejecución)",
         "description": {
           "paragraphs": [
             {
@@ -41,7 +41,7 @@
         }
       },
       {
-        "name": "Daily Meeting (Reunion Diaria)",
+        "name": "Daily Meeting (Reunión Diaria)",
         "description": {
           "paragraphs": [
             {
