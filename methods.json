@@ -179,5 +179,99 @@
         }
       }
     ]
+  },
+  {
+    "name": "Basado en Prototipos",
+    "description": "Se basa en la construcción de un prototipo de software que se construye rápidamente para que los usuarios puedan probarlo y aportar feedback. Así, se puede arreglar lo que está mal e incluir otros requerimientos que puedan surgir. Es un modelo iterativo que se basa en el método de prueba y error para comprender las especificidades del producto.",
+    "picture": "https://th.bing.com/th/id/OIP.OZnc81ikZO3xs0maA7vBGwE_DD?pid=ImgDet&rs=1",
+    "phases": [
+      {
+        "name": "Requisitos",
+        "description": {
+          "paragraphs": [
+            {
+              "text": "En esta fase se construye el prototipo inicial según los requisitos establecidos. En esta fase de diseño y construcción se debe priorizar el tiempo de desarrollo y hacer un uso óptimo de los recursos para reducir su coste.",
+              "resource": {
+                "type": "picture",
+                "link": "https://4.bp.blogspot.com/-3kToTRRBqOM/VlXuVBO2qpI/AAAAAAAAAL4/W5o9R5BRsnk/s1600/desarrollo-por-prototipos-5-728.jpg"
+              },
+              "questions": []
+            }
+          ]
+        }
+      },
+      {
+        "name": "Desarrollo del código",
+        "description": {
+          "paragraphs": [
+            {
+              "text": "En esta fase se diseña y crea el prototipo por medio de modelos y tecnologías como entornos de desarrollo y como los antes mencionados <b>lenguajes de programación</b>. En esta metodología se requiere de la rapidez del equipo de desarrollo para cumplir con las fechas de entrega del proyecto.",
+              "resource": {
+                "type": "picture",
+                "link": "https://th.bing.com/th/id/OIP.8i63ftBjaZKJkEwOm3PEJQHaE7?pid=ImgDet&rs=1"
+              },
+              "questions": []
+            }
+          ]
+        }
+      },
+      {
+        "name": "Evaluación",
+        "description": {
+          "paragraphs": [
+            {
+              "text": "Una vez desarrollado el prototipo es necesario comprobar su funcionamiento, evaluando su funcionalidad y verificando que cumple realmente con los requisitos iniciales, esta fase también se conoce como fase de <b>pruebas</b>.",
+              "resource": {
+                "type": "picture",
+                "link": "https://1.bp.blogspot.com/-KXCuCGMKCqo/XW5EVgtVFmI/AAAAAAAAC_w/_ETo3IfJXq8uVx2n3XQ6qR8H1t5uZFgqwCLcBGAs/s640/Capture.PNG"
+              },
+              "questions": []
+            }
+          ]
+        }
+      },
+      {
+        "name": "Modificación",
+        "description": {
+          "paragraphs": [
+            {
+              "text": "Tras evaluar el prototipo se deben corregir los errores encontrados y aplicar las mejoras necesarias para que esté listo para ser probado por los usuarios. Esta fase podría mirarse como una fase de \“depuración\".",
+              "resource": {
+                "type": "picture",
+                "link": "https://www.thoughtco.com/thmb/DJJatQWXGA6r0nwUfypOGJLJsPU=/2323x1291/filters:no_upscale():max_bytes(150000):strip_icc()/Desarrolladoreseneltrabajo-58f276293df78cd3fcc26648.jpg"
+              },
+              "questions": []
+            }
+          ]
+        }
+      },
+      {
+        "name": "Documentación",
+        "description": {
+          "paragraphs": [
+            {
+              "text": "Todo el diseño y desarrollo debe ser documentado para disponer de información precisa y clara del proceso. Es muy importante el registro de cada paso o acción del desarrollo del prototipo pues es una guía útil a la hora de afrontar el diseño del producto final.",
+              "resource": null,
+              "questions": []
+            }
+          ]
+        }
+      },
+      {
+        "name": "Entrega y mantenimiento",
+        "description": {
+          "paragraphs": [
+            {
+              "text": "Finalmente, el prototipo debe ser probado por los usuarios para poder recibir el <b>feedback</b> necesario y así evaluar su utilidad y rendimiento. Gracias a esta retroalimentación ofrecida por el prototipo se podrá desarrollar un software de mayor calidad que resuelva los problemas de los usuarios.",
+              "resource": {
+                "type": "picture",
+                "link": "https://th.bing.com/th/id/OIP.ZaSlR15GmB1gPuv3su7QzwHaE8?pid=ImgDet&rs=1"
+              },
+              "questions": []
+            }
+          ]
+        }
+      }
+    ]
   }
 ]
