@@ -1,7 +1,7 @@
 [
   {
     "name": "SCRUM",
-    "description": "Scrum es un proceso de gestión que reduce la complejidad en el desarrollo de productos para satisfacer las necesidades de los clientes.",
+    "description": "Scrum es un proceso de gestión que reduce la complejidad en el desarrollo de productos para satisfacer las necesidades de los clientes. Está basado en iteraciones y cada iteración es una vuelta a todo el proceso, trayendo una mejora constante en el proyecto.",
     "picture": "https://th.bing.com/th/id/R.8985972bc7df999cdcc9acdcfa553447?rik=i7Vk9xh8oxeaBA&pid=ImgRaw&r=0",
     "phases": [
       {
