@@ -1,0 +1,52 @@
+{
+  "conclusion": {
+    "paragraphs": [
+      {
+        "text": "La ingeniería en Software es un campo que está en constante evolución y cada vez crece más la demanda de ingenieros en este campo, esto es debido a que la tecnología es cada vez una parte más nuestra vida, está en las aplicaciones móviles, aplicaciones de escritorio, sistemas operativos, videojuegos, plataformas de entretenimiento, software del sector económico, software para el sector administrativo, software en el sector de salud, software para productividad como los que usamos para hacer tareas, sacar cuentas, edición multimedia, realización de cálculos, etc.",
+        "questions": []
+      }
+    ]
+  },
+  "sources": [
+    {
+      "author": "Álvaro Arrarte",
+      "title": "Fases de la metodología SCRUM",
+      "year": "2022",
+      "editorial": {
+        "page": "alvaroarrarte.com",
+        "link": "https://alvaroarrarte.com/fases-de-la-metodologia-scrum/#:~:text=Basado%20en%20mi%20experiencia%20como%20Scrum%20Master%20y,tienen%20que%20ver%20con%20el%20desarrollo%20del%20entregable."
+      }
+      "date": "14 de diciembre"
+    },
+    {
+      "author": "Anonimo",
+      "title": "Ingeniería de Software",
+      "year": "Desconocido",
+      "editorial": {
+        "page": "www.ptolomeo.unam.mx",
+        "link": "http://www.ptolomeo.unam.mx:8080/jspui/bitstream/132.248.52.100/175/4/A4%20Cap%C3%ADtulo%201.pdf#:~:text=La%20ingenier%C3%ADa%20de%20software%20es%20una%20disciplina%20de,a%20las%20restricciones%20de%20desarrollo%20y%20recursos%20disponibles."
+      },
+      "date": null
+    },
+    {
+      "author": "Santander Universidades",
+      "title": "Metodologías de desarrollo software",
+      "year": "2020",
+      "editorial": {
+        "page": "Becas Sandanter",
+        "link": "https://www.becas-santander.com/es/blog/metodologias-desarrollo-software.html"
+      },
+      "date": "21 de diciembre"
+    },
+    {
+      "author": "Felipe",
+      "title": "Modelo de prototipos: ¿qué es y cuáles son sus etapas?",
+      "year": "2021",
+      "editorial": {
+        "page": "Hostingplus",
+        "link": "https://www.hostingplus.cl/blog/modelo-de-prototipos-que-es-y-cuales-son-sus-etapas/"
+      },
+      "date": "6 de julio"
+    }
+  ]
+}
