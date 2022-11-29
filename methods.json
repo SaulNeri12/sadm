@@ -201,14 +201,14 @@
         }
       },
       {
-        "name": "Desarrollo del código",
+        "name": "Desarrollo",
         "description": {
           "paragraphs": [
             {
               "text": "En esta fase se diseña y crea el prototipo por medio de modelos y tecnologías como entornos de desarrollo y como los antes mencionados <b>lenguajes de programación</b>. En esta metodología se requiere de la rapidez del equipo de desarrollo para cumplir con las fechas de entrega del proyecto.",
               "resource": {
                 "type": "picture",
-                "link": "https://th.bing.com/th/id/OIP.8i63ftBjaZKJkEwOm3PEJQHaE7?pid=ImgDet&rs=1"
+                "link": "https://cdn.pixabay.com/photo/2016/08/02/11/13/graphic-design-studio-1563080_960_720.jpg"
               },
               "questions": []
             }
@@ -265,7 +265,7 @@
               "text": "Finalmente, el prototipo debe ser probado por los usuarios para poder recibir el <b>feedback</b> necesario y así evaluar su utilidad y rendimiento. Gracias a esta retroalimentación ofrecida por el prototipo se podrá desarrollar un software de mayor calidad que resuelva los problemas de los usuarios.",
               "resource": {
                 "type": "picture",
-                "link": "https://th.bing.com/th/id/OIP.ZaSlR15GmB1gPuv3su7QzwHaE8?pid=ImgDet&rs=1"
+                "link": "https://cdn.pixabay.com/photo/2020/07/08/04/12/work-5382501_960_720.jpg"
               },
               "questions": []
             }
