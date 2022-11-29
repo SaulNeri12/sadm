@@ -38,7 +38,7 @@
         "list": [
           {
             "name": "Java",
-            "description": "Ya sé lo que estás pensando, el lenguaje con el que se creó el famoso videojuego <b>Minecraft</b>. Este lenguaje es el más usado en el planeta, ya que alrededor de 60 mil millones de máquinas ejecutan la máquina virtual de Java actualmente. Este es un lenguaje totalmente orientado a objetos <a href=\"\">(POO)</a> y con él se puede hacer aplicaciones de escritorio, aplicaciones móviles, servidores web, inteligencia artificial, videojuegos y muchas cosas más.",
+            "description": "Este lenguaje es muy conocido, ya que con el se creó el famoso videojuego <b>Minecraft</b>. Este lenguaje es el más usado en el planeta, ya que alrededor de 60 mil millones de máquinas ejecutan la máquina virtual de Java actualmente. Este es un lenguaje totalmente orientado a objetos <a href=\"\">(POO)</a> y con él se puede hacer aplicaciones de escritorio, aplicaciones móviles, servidores web, inteligencia artificial, videojuegos y muchas cosas más.",
             "picture": "https://th.bing.com/th/id/R.f8fa6e79867f8382349e8185fd04a008?rik=AFOcCK62Ai00rA&pid=ImgRaw&r=0"
           },
           {
@@ -48,7 +48,7 @@
           },
           {
             "name": "JavaScript",
-            "description": "Existe mucha confusión entre este lenguaje y Java ya que suenan muy parecido, pero la verdad es que estos no comparten nada en común, a excepción de la sintaxis, que es muy parecida a la de <b>Java</b> además de que los dos son lenguajes de <b>programación orientada a objetos</b>. <b>JavaScript</b> es un lenguaje de alto nivel <b>orientado a objetos</b> y es el lenguaje más utilizado en el campo del desarrollo web, este lenguaje esta enfocado para actuar en conjunto con HTML y CSS. Este lenguaje es el que se encarga de darle funcionalidad a la página o aplicación web. Este lenguaje se ejecuta solo se ejecuta en el navegador, es decir, en el lado el cliente, pero desde hace años este paso a poder ejecutarse fuera de los navegadores como cualquier otro lenguaje de programación como lo es <b>Python</b>, <b>Java</b> y <b>C</b>, siendo así usado hasta en la programación de <b>microcontroladores</b>.",
+            "description": "Existe mucha confusión entre este lenguaje y Java ya que suenan muy parecido, pero la verdad es que estos no comparten nada en común, a excepción de la sintaxis, que es muy parecida a la de <b>Java</b> además de que los dos son lenguajes de <b>programación orientada a objetos</b>. <b>JavaScript</b> es un lenguaje de alto nivel <b>orientado a objetos</b> y es el lenguaje más utilizado en el campo del desarrollo web, este lenguaje esta enfocado para actuar en conjunto con HTML y CSS. Este lenguaje es el que se encarga de darle funcionalidad a la página o aplicación web. Este lenguaje solo se ejecuta en el navegador, es decir, en el lado el cliente, pero desde hace años este paso a poder ejecutarse fuera de los navegadores como cualquier otro lenguaje de programación como lo es <b>Python</b>, <b>Java</b> y <b>C</b>, siendo así usado hasta en la programación de <b>microcontroladores</b>.",
             "picture": "https://th.bing.com/th/id/R.96fd3a4dbf47379c3454f429954712e2?rik=07QxpxCX4c7vKA&pid=ImgRaw&r=0&sres=1&sresct=1"
           },
           {
