@@ -58,5 +58,12 @@
       },
       "date": "29 de septiembre"
     }
-  ]
+  ],
+  "contact": {
+    "name": "Elsa Lorena Padilla Monge",
+    "rol": "Jefa del Departamento de Computación y Diseño",
+    "place": "Cubículo 30 Edificio 1800",
+    "phone-number": "410-90-00 Ext. 1532", 
+    "email": "elsa.padilla@itson.edu.mx"
+  }
 }
